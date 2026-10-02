@@ -1,3 +1,16 @@
+## Team Project
+ 
+E-Tour was developed as a collaborative team project.
+ 
+### My Contributions
+ 
+- JWT Authentication
+- RESTful API Development
+- Docker Containerization
+- Microservice Architecture
+- Backend Service Integration
+- API Testing and Validation
+
 <h1>E-TOUR 🌍</h1>
 
 <h2>PLATFORM</h2>
