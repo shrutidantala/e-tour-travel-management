@@ -1,5 +1,5 @@
 ## Team Project
- 
+
 E-Tour was developed as a collaborative team project.
  
 ### My Contributions
@@ -103,7 +103,7 @@ Payment
 
 <br><br><h2>📌 STEPS TO RUN</h2>
 1️⃣ Clone the Repository<br>
-    git clone https://github.com/Rushikesh-264/e-tour.git<br>
+    git clone https://github.com/shrutidantala/e-tour-travel-management.git<br>
     cd e-tour<br>
 
 <br>**2️⃣ Backend Setup (Spring Boot & .Net Core)**<br>
